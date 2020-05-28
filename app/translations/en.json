@@ -1,0 +1,11 @@
+{
+  "repo_list": "Artists List",
+  "repo_search": "Artists Search",
+  "respo_search_default": "Search for a Artist by entering it's name in the search box",
+  "get_repo_details": "Get details of Artist",
+  "search_query": "Search query: {itunecollectionName}",
+  "matching_repos": "Total number of matching Artists: {totalCount}",
+  "something_went_wrong": "Sorry. Something went wrong! Please try again in sometime.",
+  "stories": "Go to Storybook",
+  "wednesday_solutions": "Wednesday Solutions"
+}
